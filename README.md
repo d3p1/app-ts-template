@@ -3,9 +3,9 @@
 # [APP TS TEMPLATE]
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+[![Build](https://github.com/d3p1/app-ts-template/actions/workflows/build.yml/badge.svg)](https://github.com/d3p1/app-ts-template/actions/workflows/build.yml)
+[![Release](https://github.com/d3p1/app-ts-template/actions/workflows/release.yml/badge.svg)](https://github.com/d3p1/app-ts-template/actions/workflows/release.yml)
 [![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
-[![build](https://github.com/d3p1/app-ts-template/actions/workflows/build.yml/badge.svg)](https://github.com/d3p1/app-ts-template/actions/workflows/build.yml)
-[![release](https://github.com/d3p1/app-ts-template/actions/workflows/release.yml/badge.svg)](https://github.com/d3p1/app-ts-template/actions/workflows/release.yml)
 
 </div>
 
@@ -38,7 +38,7 @@ In order to proceed with using this template, you need to:
 7. You can now start working in `./src` using the files there as templates and/or creating new ones
 
 > **Note**
-> Enable [code scanning with CodeQL](https://docs.github.com/en/code-security/code-scanning/enabling-code-scanning/configuring-default-setup-for-code-scanning)
+> Enable [code scanning with CodeQL](https://docs.github.com/en/code-security/code-scanning/enabling-code-scanning/configuring-default-setup-for-code-scanning) and add the status badge to the [`README.md`](./README.md)
 
 > **Warning**
 > The [release workflow](./.github/workflows/release.yml) uses a bot that needs to have write access to the repository to create new releases, tags, and the `CHANGELOG.md`. If you are using a personal repository, to allow the bot to work smoothly, you shouldn't protect the branch. If you are using an organization's repository, [you can protect the branch and add the bot as an owner to enable it to perform its tasks](https://github.com/semantic-release/github/issues/175#issuecomment-484964034))
