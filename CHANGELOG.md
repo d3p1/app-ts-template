@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/d3p1/app-ts-template/compare/v1.0.1...v1.0.2) (2023-10-19)
+
+
+### Bug Fixes
+
+* improve ts configuration [[#1](https://github.com/d3p1/app-ts-template/issues/1)] ([8b2cb52](https://github.com/d3p1/app-ts-template/commit/8b2cb5222abf1ed8d6c7644e08e8862286e89547))
+
 ## [1.0.1](https://github.com/d3p1/app-ts-template/compare/v1.0.0...v1.0.1) (2023-10-18)
 
 
