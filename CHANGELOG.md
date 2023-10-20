@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/d3p1/app-ts-template/compare/v1.0.3...v1.0.4) (2023-10-20)
+
+
+### Bug Fixes
+
+* improve webpack image asset imports [[#1](https://github.com/d3p1/app-ts-template/issues/1)] ([2fc22b0](https://github.com/d3p1/app-ts-template/commit/2fc22b0eacbbf3f13555ac00581c17a21ce46b3f))
+
 ## [1.0.3](https://github.com/d3p1/app-ts-template/compare/v1.0.2...v1.0.3) (2023-10-19)
 
 
