@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/d3p1/app-ts-template/compare/v1.0.4...v1.0.5) (2023-10-21)
+
+
+### Bug Fixes
+
+* improve build of fonts and images [[#1](https://github.com/d3p1/app-ts-template/issues/1)] ([af87d20](https://github.com/d3p1/app-ts-template/commit/af87d208e5b4181eaeb5d28f09cf6661b75d1b0e))
+
 ## [1.0.4](https://github.com/d3p1/app-ts-template/compare/v1.0.3...v1.0.4) (2023-10-20)
 
 
