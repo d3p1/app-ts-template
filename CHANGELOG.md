@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/d3p1/app-ts-template/compare/v1.0.5...v1.0.6) (2023-10-21)
+
+
+### Bug Fixes
+
+* remove unneeded rootDir ts option [[#1](https://github.com/d3p1/app-ts-template/issues/1)] ([7bd0992](https://github.com/d3p1/app-ts-template/commit/7bd09924ea04039692f3f9589de5e496e306ff0a))
+
 ## [1.0.5](https://github.com/d3p1/app-ts-template/compare/v1.0.4...v1.0.5) (2023-10-21)
 
 
