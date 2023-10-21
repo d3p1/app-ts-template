@@ -11,7 +11,6 @@ module.exports = {
   output: {
     filename: '[name].[contenthash].js',
     path: path.resolve(__dirname, 'dist'),
-    assetModuleFilename: 'images/[hash][ext][query]',
     clean: true,
   },
   module: {
@@ -19,10 +18,20 @@ module.exports = {
       {
         test: /\.(png|svg|jpg|jpeg|gif)$/i,
         type: 'asset/resource',
+        generator: {
+          filename: 'assets/images/[hash][ext][query]',
+        },
+      },
+      {
+        test: /\.(ttf|otf|woff|woff2)$/i,
+        type: 'asset/resource',
+        generator: {
+          filename: 'assets/fonts/[hash][ext][query]',
+        },
       },
       {
         test: /\.html$/i,
-        loader: 'html-loader',
+        use: 'html-loader',
       },
       {
         test: /\.tsx?$/,
