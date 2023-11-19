@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/d3p1/app-ts-template/compare/v1.0.6...v1.0.7) (2023-11-19)
+
+
+### Bug Fixes
+
+* improve eslint configuration [[#1](https://github.com/d3p1/app-ts-template/issues/1)] ([698b146](https://github.com/d3p1/app-ts-template/commit/698b14660257c742e4de2b71300e7b38fd3ed92d))
+
 ## [1.0.6](https://github.com/d3p1/app-ts-template/compare/v1.0.5...v1.0.6) (2023-10-21)
 
 
